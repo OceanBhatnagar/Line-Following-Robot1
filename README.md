@@ -1,6 +1,6 @@
 # Welcome to the Line Following Robot Project Repository!
 
-This project is an implementation of a basic line-following robot using an Arduino Uno microcontroller. The robot is designed to follow a black line on a white surface using infrared (IR) sensors.
+This project is an implementation of a basic line-following robot using an Arduino Uno microcontroller. The robot is designed to follow a black line on a white surface using infrared (IR) sensors.It was developed as part of the (Team i5 – IoT and Embedded Systems)Intel OneAPI Student Club at USAR, GGSIPU.
 
 ## Components Used
 - Arduino Uno Microcontroller
